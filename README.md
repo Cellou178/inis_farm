@@ -5,9 +5,9 @@
 ---
 
 ## Accès rapide
-👉 **[Ouvrir l'application](https://votre-username.github.io/inis-farm)**
+👉 **[Ouvrir l'application](https://cellou178.github.io/inis_farm/)**
 
-> Remplacez `votre-username` par votre nom d'utilisateur GitHub
+> Remplacez `inis_farm` par votre nom d'utilisateur GitHub
 
 ---
 
